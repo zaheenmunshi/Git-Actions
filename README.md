@@ -1,2 +1,2 @@
 # Git-Actions
-This repo is to learn git hub actions
+This repo is to learn Git Hub Actions
